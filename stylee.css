@@ -1,0 +1,44 @@
+.container{
+    background: url('assets/images/20.png');
+    padding:1rem 2rem;
+}
+.container h2{
+    color:#ffffff;
+    font-family: Arial;
+}
+.formdn{
+    background-color: rgba(0, 0, 0, 0.5);
+    width:300px;
+    height:400px;
+    margin-left: 50px;
+    margin-top: 15px;
+    padding:4rem 2rem;
+    text-align: center;
+    box-shadow: 0px 0px 17px 2px white;
+    font-family: 'Montserrat', sans-serif;
+}
+.formdn input{
+    width:300px;
+    height:30px;
+    border:1px black solid;
+    padding-left: 5px;
+}
+.formdn button{
+    background-color: rgb(255, 255, 255);
+    color:#484848;
+    border:1px black solid;
+    padding:5px 8px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+}
+button:hover{
+    background-color: rgb(85, 85, 245);
+    color:#ffffff;
+}
+.formdn a{
+    color:white;
+    text-decoration:none;
+}
+.formdn a:hover {
+    color: rgb(85, 85, 245);
+}
